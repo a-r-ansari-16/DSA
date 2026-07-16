@@ -7,6 +7,8 @@
 
 Welcome to my DSA repository!
 
+"Built with discipline. Improved through consistency."
+
 This repository contains my solutions to Data Structures and Algorithms problems implemented in **C++**. I use it to improve my problem-solving skills, strengthen my understanding of algorithms, and prepare for software engineering interviews.
 
 ## 📚 Topics Covered
