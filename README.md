@@ -3,6 +3,11 @@
 ![Platform](https://img.shields.io/badge/Platform-GeeksforGeeks-green)
 ![License](https://img.shields.io/badge/Status-Active-success)
 
+## 🌐 Coding Profiles
+
+- 💻 **LeetCode:** https://leetcode.com/u/___amanriyaz___1605
+- 🐙 **GitHub:** https://github.com/a-r-ansari-16
+
 # Data Structures and Algorithms in C++
 
 Welcome to my DSA repository!
