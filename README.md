@@ -1,3 +1,8 @@
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Platform](https://img.shields.io/badge/Platform-LeetCode-orange)
+![Platform](https://img.shields.io/badge/Platform-GeeksforGeeks-green)
+![License](https://img.shields.io/badge/Status-Active-success)
+
 # Data Structures and Algorithms in C++
 
 Welcome to my DSA repository!
