@@ -1,6 +1,18 @@
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Platform](https://img.shields.io/badge/Platform-LeetCode-orange)
+![Platform](https://img.shields.io/badge/Platform-GeeksforGeeks-green)
+![License](https://img.shields.io/badge/Status-Active-success)
+
+## 🌐 Coding Profiles
+
+- 💻 **LeetCode:** https://leetcode.com/u/___amanriyaz___1605
+- 🐙 **GitHub:** https://github.com/a-r-ansari-16
+
 # Data Structures and Algorithms in C++
 
 Welcome to my DSA repository!
+
+"Built with discipline. Improved through consistency."
 
 This repository contains my solutions to Data Structures and Algorithms problems implemented in **C++**. I use it to improve my problem-solving skills, strengthen my understanding of algorithms, and prepare for software engineering interviews.
 
